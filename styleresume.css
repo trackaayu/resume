@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Lato, Arial, sans-serif;
+    font-size: 18px;
+}
+.continer {
+    margin: 40px auto 30px auto;
+    width: 1140;
+}
+
+.clearfix: after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.main {
+    margin-top: 40px;
+    width: 70%;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+.resume {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.clearfix: after{
+    
+}
+
+.education {
+    width: 50%;
+    float: left;
+    padding-right: 40px;
+}
+
+.proud {
+    margin-top: 60px;
+/*    margin-left: 20px;*/
+    
+}
+
+.proud-content {
+    text-align: justify;
+}
+
+.dotted {
+    color: gray;
+    width: 30%;
+    border: none;
+    border-top: 1px dotted;
+}
+
+hr {
+    color: black;
+}
+
+.experience {
+    padding-right: 70px;
+}
+
+.Tech {
+    width: 50%;
+    padding-right: 40px;
+    float: left;
+}
+
+.carrier-objective {
+/*    margin-top: 30px;
+/*    width: 50%;*/
+}
+
+.clearfix:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.end {
+    position: relative;
+}
+
+.date {
+    position: absolute;
+    top: 0px;
+    right: 50px;
+}
+
+.candidate-photo img{
+    padding-top: 50px;
+    border-radius: 50%;    
+}
+
+.resume-c {
+    text-align: justify;
+}
+
+
+.summery {
+    margin-bottom: 20px;
+}
